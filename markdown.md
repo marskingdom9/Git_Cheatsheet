@@ -13,6 +13,7 @@ var myVar = "Hello, world!";
 Image
 
 relative URL: ![Mona the Octocat](myrepo/original.png)
+
 absolute URL: ![Mona the Octocat](https://octodex.github.com/images/original.png)
 
 Simple HTML
