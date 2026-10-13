@@ -1,6 +1,6 @@
 Markdown: lightweight syntax for communicating on GitHub used to format text
 
-Heading: six sizes from H1 to H6 ... use <h1> </h1>
+Heading: six sizes from H1 to H6 ... use <h#>
 
 Unordered List (Bulleted): -,*,+
 Ordered List (Numbered): use numbers
