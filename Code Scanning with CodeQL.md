@@ -5,4 +5,7 @@ CodeQL: static analysis testing tool to identify weaknesses where queries collec
   Runner Type: type of GitHub Actions runner running analysis (Default is GitHub Hosted Runners)
   Events: Triggers for running CodeQL scan (before merging on schedule as example)
 
-Set CodeQL up (Default) -> 
+Common Weakness Enumeration (CWE): category system for HW/SW weaknesses and vulnerabilities ... way to categorize security issues in application source code
+
+Set CodeQL up (Default) -> See PR notes -> View CodeQL Scanning Logs in Actions & Analyze PR -> Go to Security Tab (Code Scanning) -> Review Alert (post PR merge) -> Fix/Dismiss Alert
+
